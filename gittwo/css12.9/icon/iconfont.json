@@ -1,0 +1,23 @@
+{
+  "id": "4774873",
+  "name": "css12.9",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1296",
+      "name": "向上",
+      "font_class": "xiangshang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11775916",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    }
+  ]
+}
